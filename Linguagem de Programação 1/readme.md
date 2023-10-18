@@ -1,5 +1,6 @@
 # Linguagem de programação 1
-Exercicios e Respostas de Lógica de Programação - FATEC São José dos Campos - Jassen Vidal
+Espaço dedicado as atividades realizadas durante as aulas de Linguaguem de Programação II - FATEC São José dos Campos - Jassen Vidal
+
 
 # Testes de mesa
 
